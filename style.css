@@ -1,0 +1,166 @@
+.body{
+    border: groove greenyellow;
+    border-width: 8px;
+    margin: 0px;
+    background-image: url(./image.jpg);
+    height: 2000px;
+    
+
+}
+.para1{
+    background-color: black;
+    border: 8px solid red;
+     
+    border-radius: 30px;
+    color: white;
+    font-size: x-large;
+    white-space: 15px;
+    font-weight: 50px;
+    padding: 10px;
+    padding-top: 20px;
+    margin-left: 20px;
+    
+    width: 300px;
+    height: 100px;
+    display: inline-block;
+    
+}
+.para2{
+    background-color: black;
+    border: 8px solid red;
+     
+    border-radius: 30px;
+    color: white;
+    font-size: x-large;
+    white-space: 15px;
+    font-weight: 50px;
+    padding: 10px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-left: -80px;
+    margin-bottom: 20px;
+    
+    width: 500px;
+    height: 20px;
+    display: inline-block;
+
+
+}
+.para3{
+    background-color: black;
+    border: 8px solid red;
+     
+    border-radius: 30px;
+    color: white;
+    font-size: x-large;
+    white-space: 15px;
+    font-weight: 50px;
+    padding: 30px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    
+    width: 350px;
+    height: 100px;
+    display: inline-block;
+}
+
+.boss{
+    display: inline-block;
+}
+
+.circle{
+    background-color: rgb(33, 155, 112);
+    border: 8px solid grey;
+    margin-left: 80px;
+    margin-right: 80px;
+    display: inline block;
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px;
+    margin-top: 300px;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+.edit1{
+    padding-top: 30px;
+    padding-bottom: 3px;
+    padding-right: 10px;
+    padding-right: 10px;
+}
+.edit2{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.edit3{
+    padding-bottom: 55px;
+    padding-top: 10px;
+}
+.form{
+    padding: 10px;
+    align-content: center;
+    display: inline-block;
+    border: 8px red;
+    border-style: dashed;
+    background-color: white;
+    margin-left: 800px;
+    margin-top: -1000px;
+}
+.para4{
+    background-color: black;
+    border: 8px solid red;
+     
+    border-radius: 30px;
+    color: white;
+    font-size: xx-large;
+    white-space: 15px;
+    font-weight: 80px;
+    
+    margin-left: 500px;
+    padding-left: 120px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-right: 100px;
+    width: 300px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.item{
+    background-color: lightskyblue;
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+    margin-left: 50px;
+    flex-wrap: ;
+    justify-content: center;
+    display: flexbox;
+    border: 5px ;
+    border-style: inset;
+    border-color: green;
+    border-radius: 30px;
+    font-size: larger;
+    padding-left: 40px;
+}
+.item1{background-color: lightskyblue;
+    height: 320px;
+    width: 300px;
+    margin: 50px;
+    margin-left: 50px;
+    flex-wrap: ;
+    justify-content: center;
+    display: flexbox;
+    border: 5px ;
+    border-style: inset;
+    border-color: green;
+    border-radius: 30px;
+    font-size: larger;
+    padding-left: 40px;
+}
+
